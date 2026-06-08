@@ -31,3 +31,5 @@ I am a PhD student in Electrical and Systems Engineering at the University of Pe
 In parallel, I am also interested in uncertainty quantification to enhance the reliability and robustness of real-world autonomous systems.
 
 I previously earned my Bachelor's degree in Electrical and Electronics Engineering from the Indian Institute of Technology (IIT) Patna in 2024, where I received the Institute Proficiency Prize for the Best Bachelor's Thesis. I have also been the recipient of the MITACS Globalink Research Fellowship during my undergraduate studies.
+
+* indicates equal contribution on publications.
