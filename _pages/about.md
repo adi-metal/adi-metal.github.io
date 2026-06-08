@@ -32,4 +32,4 @@ In parallel, I am also interested in uncertainty quantification to enhance the r
 
 I previously earned my Bachelor's degree in Electrical and Electronics Engineering from the Indian Institute of Technology (IIT) Patna in 2024, where I received the Institute Proficiency Prize for the Best Bachelor's Thesis. I have also been the recipient of the MITACS Globalink Research Fellowship during my undergraduate studies.
 
-* indicates equal contribution on publications.
+<p>* indicates equal contribution on publications.</p>
