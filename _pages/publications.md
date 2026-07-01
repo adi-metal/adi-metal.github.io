@@ -12,11 +12,16 @@ nav_order: 2
 <style>
   .publications ol.bibliography li .abbr figure {
     align-items: center;
+    background: var(--global-card-bg-color);
+    border: 1px solid var(--global-divider-color);
+    border-radius: 0.35rem;
+    box-sizing: border-box;
     display: flex;
     height: 6.5rem;
     justify-content: center;
     margin: 0 auto 0.75rem;
     overflow: hidden;
+    padding: 0.35rem;
     width: 8.5rem;
   }
 
@@ -27,7 +32,9 @@ nav_order: 2
   }
 
   .publications ol.bibliography li .abbr picture img.preview {
-    background: var(--global-bg-color);
+    background: transparent;
+    border-radius: 0;
+    box-shadow: none;
     display: block;
     height: 100% !important;
     object-fit: contain;
