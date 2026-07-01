@@ -26,6 +26,46 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+<style>
+  .publications ol.bibliography li .abbr figure {
+    align-items: center;
+    background: var(--global-card-bg-color);
+    border: 1px solid var(--global-divider-color);
+    border-radius: 0.35rem;
+    box-sizing: border-box;
+    display: flex;
+    height: 6.5rem;
+    justify-content: center;
+    margin: 0 auto 0.75rem;
+    overflow: hidden;
+    padding: 0.35rem;
+    width: 8.5rem;
+  }
+
+  .publications ol.bibliography li .abbr picture {
+    display: block;
+    height: 100%;
+    width: 100%;
+  }
+
+  .publications ol.bibliography li .abbr picture img.preview {
+    background: transparent;
+    border-radius: 0;
+    box-shadow: none;
+    display: block;
+    height: 100% !important;
+    object-fit: contain;
+    width: 100% !important;
+  }
+
+  @media (max-width: 575.98px) {
+    .publications ol.bibliography li .abbr figure {
+      height: 7rem;
+      width: 10rem;
+    }
+  }
+</style>
+
 I am a PhD student in Electrical and Systems Engineering at the University of Pennsylvania, advised by Professor Rahul Mangharam. My research interests broadly lie in safe autonomy. More specifically, I am interested in integrating formal safety frameworks, such as Control Barrier Functions and Hamilton-Jacobi Reachability, with learning-enabled control to develop high-performance autonomous systems with provable safety guarantees.
 
 In parallel, I am also interested in uncertainty quantification to enhance the reliability and robustness of real-world autonomous systems.
