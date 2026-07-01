@@ -10,11 +10,18 @@
   width: 8.5rem;
 }
 
+.publications .abbr picture {
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+
 .publications .abbr img.preview {
   background: var(--global-bg-color);
-  height: 100%;
+  display: block;
+  height: 100% !important;
   object-fit: contain;
-  width: 100%;
+  width: 100% !important;
 }
 
 @media (max-width: 575.98px) {
