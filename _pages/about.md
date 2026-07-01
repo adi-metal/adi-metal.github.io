@@ -66,10 +66,10 @@ latest_posts:
   }
 </style>
 
-I am a PhD student in Electrical and Systems Engineering at the University of Pennsylvania, advised by Professor Rahul Mangharam. My research interests broadly lie in safe autonomy. More specifically, I am interested in integrating formal safety frameworks, such as Control Barrier Functions and Hamilton-Jacobi Reachability, with learning-enabled control to develop high-performance autonomous systems with provable safety guarantees.
+I am a PhD student at the [xLab](https://xlab.upenn.edu/) in Electrical and Systems Engineering at the University of Pennsylvania, headed by [Prof. Rahul Mangharam](https://xlab.upenn.edu/team/rahul/). My research interests broadly lie in safe autonomy. More specifically, I am interested in integrating formal safety frameworks, such as Control Barrier Functions and Hamilton-Jacobi Reachability, with learning-enabled control to develop high-performance autonomous systems with provable safety guarantees. In parallel, I am also interested in uncertainty quantification to enhance the reliability and robustness of real-world autonomous systems.
 
-In parallel, I am also interested in uncertainty quantification to enhance the reliability and robustness of real-world autonomous systems.
+Before beginning my Ph.D., I collaborated extensively with [Prof. Somil Bansal](https://smlbansal.github.io/) at Stanford University on problems in Safe Autonomy. I also spent a wonderful one and a half years as a Research Assistant in the [Stochastic Robotics Lab](https://www.stochlab.com/) at the Indian Institute of Science (IISc), led by [Prof. Shishir Kolathaya](https://www.shishirny.com/). My research there focused on learning-enabled safety-critical control.
 
-I previously earned my Bachelor's degree in Electrical and Electronics Engineering from the Indian Institute of Technology (IIT) Patna in 2024, where I received the Institute Proficiency Prize for the Best Bachelor's Thesis. I have also been the recipient of the MITACS Globalink Research Fellowship during my undergraduate studies.
+I received my Bachelor's degree in Electrical and Electronics Engineering from the Indian Institute of Technology (IIT) Patna in 2024, where I was advised by [Prof. Sudhir Kumar](https://www1.iitp.ac.in/people-2/ee-faculty/2281:dr-sudhir-kumar). My undergraduate thesis was awarded the Institute Proficiency Prize for the Best Bachelor's Thesis. During my undergraduate studies, I was also fortunate to receive the MITACS Globalink Research Fellowship. As a Ph.D. student at the University of Pennsylvania, I was honored to receive the Ganster Engineering Fellowship.
 
 <p>* indicates equal contribution on publications.</p>
